@@ -1,0 +1,1 @@
+console.log("log in the second file")
